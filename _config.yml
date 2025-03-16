@@ -1,8 +1,21 @@
-title: CHROMEBOOK DOCS
-description: Documentaccon de chroembooks
+title: Chromebook Docs
+description: Documentación de chromebooks
 theme: just-the-docs
 
 url: https://vadik317.github.io/chromebook-docs
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: wider
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    title: 
+    color: yellow
+  note:
+    title: Nota
+    color: purple
