@@ -9,6 +9,9 @@ aux_links:
 
 color_scheme: wider
 
+favicon_ico: "/favicon.ico"
+
+
 callouts:
   warning:
     title: Warning
