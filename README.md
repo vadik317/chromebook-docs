@@ -4,6 +4,7 @@ Este proyecto ha sido creado únicamente con fines de documentación. Todo el co
 
 Este sitio web se encuentra en [https://vadik317.github.io/chromebook-docs](https://vadik317.github.io/chromebook-docs)
 
+Alomejor github pages no funcciona. yo no tengo ni idea de lo que estoy haciendo
 ---
 
 # just-the-docs-template
